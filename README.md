@@ -38,9 +38,9 @@ React-Redux Group Project: Space Travelers' Hub
 
 👤 **Youta Lactio Christabelle**
 
-- GitHub: [@githubhandle]()
-- Twitter: [@twitterhandle]()
-- LinkedIn: [LinkedIn]()
+- GitHub: [Christabelle143](https://github.com/Christabelle143)
+- Twitter: [@christabelleyo](https://twitter.com/christabelleyo)
+- LinkedIn: [YoutaChristabelle](https://linkedin.com/in/YoutaChristabelle)
 
 👤 **Suleiman Olaide**
 
