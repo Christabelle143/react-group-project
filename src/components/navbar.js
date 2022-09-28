@@ -4,7 +4,7 @@ import planet from './planet.png';
 
 function Navbar() {
   return (
-    <div>
+    <div className="nav-links">
       <nav>
         <div>
           <img src={planet} alt="logo" />
