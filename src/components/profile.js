@@ -3,7 +3,7 @@ import React from 'react';
 function Myprofile() {
   return (
     <div className="rockets-container">
-     <h1>My profile page</h1>
+      <h1>My profile page</h1>
     </div>
   );
 }

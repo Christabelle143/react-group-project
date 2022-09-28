@@ -1,13 +1,14 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import planet from './planet.png';
-function Navlink() {
+
+function NavLink() {
   return (
     <div>
       <nav>
-      <div>
-      <img src={planet} alt="logo" />
-    </div>
+        <div>
+          <img src={planet} alt="logo" />
+        </div>
         <ul>
           <li>
             <Link to="/rockets">Rockets</Link>
@@ -23,4 +24,4 @@ function Navlink() {
     </div>
   );
 }
-export default Navlink;
+export default NavLink;
