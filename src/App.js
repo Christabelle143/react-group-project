@@ -1,5 +1,6 @@
 import React from 'react';
 import './index.css';
+import './App.css';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Missions from './components/missions';
 import Rockets from './components/rockets';
@@ -10,7 +11,7 @@ function App() {
   return (
     <>
       <Router>
-        <div>
+        <div className="page">
           <Navbar />
           <div>
             <Routes>
