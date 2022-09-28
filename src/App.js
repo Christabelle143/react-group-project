@@ -1,7 +1,9 @@
 function App() {
-	return (
-		Learn React
-	);
+  return (
+    <div>
+      Learn React
+    </div>
+  );
 }
 
 export default App;
