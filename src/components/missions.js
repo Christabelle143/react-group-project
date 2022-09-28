@@ -1,10 +1,10 @@
 import React from 'react';
 
-function Rockets() {
+function Missions() {
   return (
     <div className="rockets-container">
-      <h1>My rocket page</h1>
+      <h1>My mission page</h1>
     </div>
   );
 }
-export default Rockets;
+export default Missions;
