@@ -1,8 +1,8 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 import planet from './planet.png';
 
-function NavLink() {
+function Navbar() {
   return (
     <div>
       <nav>
@@ -11,17 +11,17 @@ function NavLink() {
         </div>
         <ul>
           <li>
-            <Link to="/rockets">Rockets</Link>
+            <NavLink to="/rockets">Rockets</NavLink>
           </li>
           <li>
-            <Link to="/missions">Missions</Link>
+            <NavLink to="/missions">Missions</NavLink>
           </li>
           <li>
-            <Link to="/profile">Myprofile</Link>
+            <NavLink to="/profile">My Profile</NavLink>
           </li>
         </ul>
       </nav>
     </div>
   );
 }
-export default NavLink;
+export default Navbar;
