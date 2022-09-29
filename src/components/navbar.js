@@ -7,7 +7,7 @@ function Navbar() {
   return (
     <div className="navbar">
       <div>
-        <NavLink className="brand" to="/">
+        <NavLink className="brand" to="/rockets">
           <img src={planet} alt="logo" className="brand-logo" />
           <span className="brand-name">Space Travelers' Hub </span>
         </NavLink>
