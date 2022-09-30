@@ -13,6 +13,9 @@ React-Redux Group Project: Space Travelers' Hub
 - ES6 JavaScript
 - Babel
 
+## SCREENSHOT
+![screenshot](spacetrave.PNG)
+
 ## Live Demo (if available)
 
 [live demo link](https://christabelle143-a00257.netlify.app/).👈
@@ -64,4 +67,6 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://github.com/Christabelle143/react-group-project/blob/development/LICENSE) licensed.
+
+This project is [MIT] licensed.
+
