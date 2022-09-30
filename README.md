@@ -16,7 +16,7 @@ React-Redux Group Project: Space Travelers' Hub
 
 ## Live Demo (if available)
 
-##Live Demo Link []
+[live demo link](https://christabelle143-a00257.netlify.app/).👈
 
 
 ## Getting Started
