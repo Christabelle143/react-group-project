@@ -4,14 +4,12 @@ const ROCKETS_FETCH_ERROR = 'ROCKETS_FETCH_ERROR';
 const RESERVED_ROCKET = 'RESERVED_ROCKET';
 const CANCELLED_RESERVE = 'CANCELLED_RESERVE';
 
-// initial store
 const store = {
   rockets: [],
   loading: false,
   error: null,
 };
 
-// rockets reducers
 const rocketsReducer = (state = store, action) => {
   switch (action.type) {
     case ROCKETS_FETCH_BEGIN:
@@ -63,7 +61,6 @@ const rocketsReducer = (state = store, action) => {
   }
 };
 
-// rockets action creators
 export const rocketsFetchBegin = () => ({
   type: ROCKETS_FETCH_BEGIN,
 });

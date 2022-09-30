@@ -2,7 +2,6 @@
 import { useEffect } from 'react';
 import Container from 'react-bootstrap/Container';
 import Table from 'react-bootstrap/Table';
-// import Badge from 'react-bootstrap/Badge';
 import Button from 'react-bootstrap/Button';
 import { useSelector, useDispatch } from 'react-redux';
 import { fetchMissions, joinMission, leaveMission } from '../redux/missions/missions';
