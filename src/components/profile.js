@@ -1,7 +1,7 @@
 /* eslint-disable */
 import React from 'react';
 import { useSelector } from 'react-redux';
-// import '../styles/MyProfile.css';
+import '../styles/MyProfile.css';
 
 const MyProfile = () => {
   const rocketsData = useSelector((state) => state.rockets.rockets);
