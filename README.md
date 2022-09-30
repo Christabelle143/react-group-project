@@ -2,8 +2,7 @@
 
 React-Redux Group Project: Space Travelers' Hub
 
-> React/Redux pair-programming project.
-
+> Microverse React Group Project: This educational project is to build a web application for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions. Built with React, Redux Toolkit, API, Sass and JavaScript.
 
 ## Built With
 - React/Redux
@@ -65,4 +64,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT]() licensed.
+This project is [MIT](https://github.com/Christabelle143/react-group-project/blob/development/LICENSE) licensed.
